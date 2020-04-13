@@ -1,0 +1,50 @@
+img{
+    width: 80;
+}
+
+/* for edits on body and overall font */
+body {
+    background: royalblue;
+}
+.demo {
+    color: green;
+}
+/* tater tots are better than fries */
+h3{
+    color: orange;
+}
+/* pickles are tasty */
+h2 {
+    color: darkred;
+}
+/* using a class */
+.drip {
+color: rgb(61, 28, 211);
+}
+/* using an ID */
+#demo {
+    color: saddlebrown;
+}
+
+a {
+    background: pink;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited{
+    color: gray;
+}
+#gross {
+    color: red;
+}
+
+#talos {
+    color: white;
+}
+
+#gank {
+    color: blue;
+}
